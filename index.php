@@ -172,7 +172,7 @@
 				<div class="container">
 					<div class="row clearfix">
 						<div class="col-sm-6 col-xs-12 pull-left">
-							<h3 class="text-white"><strong>Enquire about a tutor.</strong> It will only take a minute.</h3>
+							<h3 class="text-white"><strong>Enquire about a tutor.</strong> It'll only take a minute.</h3>
 						</div>
 						
 						<div class="col-sm-4 col-xs-12 pull-right text-right">
