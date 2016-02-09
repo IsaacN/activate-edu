@@ -18,7 +18,7 @@
 									</ul>
 								</li>-->
 								
-								<a href="contact.php" class="btn btn-primary btn-filled hidden-xs" style='margin-top: -14px;'>Enquire Now!</a>
+								<a href="contact.php" class="btn btn-primary btn-filled" style='margin-top: -14px;'>Enquire Now!</a>
 								<!-- <li class="has-dropdown"><a href="#">Dropdown</a>
 									<ul class="subnav">
 										<li><a href="#">Example</a></li>
