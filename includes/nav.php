@@ -1,11 +1,11 @@
 <div class="nav-container">
 			<nav class="simple-bar top-bar">
-				<div class="container" style='padding-top: 5px;'>
+				<div class="container" style=''>
 				
 				
 					<div class="row nav-menu">
 						<div class="col-md-3 col-sm-3 columns align-vertical">
-							<a class='logo logo-dark align-vertical' href='/'><img class="logo logo-dark align-vertical" alt="Logo" src="img/logo-dark.png"></a>
+							<a class='logo logo-dark ' href='/'><img class="logo logo-dark" alt="Logo" src="img/logo-dark.png"></a>
 						</div>
 					
 						<div class="col-md-9 col-sm-9 columns text-right">
@@ -18,7 +18,7 @@
 									</ul>
 								</li>-->
 								
-								<a href="contact.php" class="btn btn-primary btn-filled" style='margin-top: -14px;'>Enquire Now!</a>
+								<a href="contact.php" class="btn btn-primary btn-filled" id='navEnquire'>Enquire Now!</a>
 								<!-- <li class="has-dropdown"><a href="#">Dropdown</a>
 									<ul class="subnav">
 										<li><a href="#">Example</a></li>
