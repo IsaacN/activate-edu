@@ -10,7 +10,7 @@
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta property="og:image" content="http://dev.activateeducation.com.au/img/logo-dark.png" />
+        <meta property="og:image" content="http://activateeducation.com.au/img/logo-dark.png" />
 		<meta property="og:title" content="Activate Education" />
 		<meta property="og:description" content="We&#039;re a tutoring agency with a difference. We&#039;re recent high-school graduates, so we know what it's like. We know the curriculum. We know how to do the exact assessment pieces required. We&#039;re friendly and passionate, and we&#039;re here to help." />
 		<link rel="shortcut icon" type="image/png" href="http://dev.activateeducation.com.au/img/favicon.png"/>
