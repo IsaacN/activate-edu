@@ -17,10 +17,21 @@
 										<li><a href="/tutors/nathan.php">Nathan</a></li>
 									</ul>
 								</li>-->
-								<li><a href="#why">Why Activate?</a></li>
-								<li><a href="#tutoring-benefits">Tutoring Benefits</a></li>
-								<!--<li><a href="#testimonials-location">Testimonials</a></li>-->
-								<li><a href="#who-are-we">Who We Are</a></li>
+								<?php
+									if($pagename!='Home'){
+									echo "<li><a href='/#why'>Why Activate?</a></li>
+								<li><a href='/#tutoring-benefits'>Tutoring Benefits</a></li>
+								<!--<li><a href='/#testimonials-location'>Testimonials</a></li>-->
+								<li><a href='/#who-are-we'>Who We Are</a></li>";
+									}
+									else{
+										echo "<li><a href='#why'>Why Activate?</a></li>
+								<li><a href='#tutoring-benefits'>Tutoring Benefits</a></li>
+								<!--<li><a href='#testimonials-location'>Testimonials</a></li>-->
+								<li><a href='#who-are-we'>Who We Are</a></li>";
+									}
+									?>
+								
 								<li class='navNoMargin' style="margin-right: 0px;"> <a href="contact.php" class="btn btn-primary btn-filled" id='navEnquire'>Enquire Now!</a></li>
 								<li>	<ul class="social-icons text-right">
 									
