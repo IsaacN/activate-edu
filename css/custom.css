@@ -25,6 +25,11 @@ a.logo{
 	color:#fff;
 }
 
+.simple-bar .social-icons {
+    margin-left: 40px;
+    /*margin-bottom: 40px;*/
+}
+
 @media all and (max-width: 767px) {
 	img.logo .logo-dark{
 		margin-top: -20px !important;
@@ -33,7 +38,7 @@ a.logo{
 	#navEnquire{
 		margin-bottom: 8px;
 		margin-top: 8px;
-		
+
 	}
 }
 
