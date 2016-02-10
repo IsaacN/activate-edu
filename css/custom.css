@@ -21,6 +21,10 @@ a.logo{
 	color: #fff;
 }
 
+.nav-container{
+	max-height: 125px;
+}
+
 #navEnquire:hover{
 	color:#fff;
 }
@@ -32,7 +36,7 @@ a.logo{
 
 @media all and (max-width: 767px) {
 	img.logo .logo-dark{
-		margin-top: -20px !important;
+		margin-top: -10px !important;
 		padding-top: 10px;
 	}
 	#navEnquire{

@@ -11,8 +11,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta property="og:url" content="http://activateeducation.com.au/" />
-        <meta property="og:image" content="http://activateeducation.com.au/img/og-img.png" />
-        meta property="og:title"              content="When Great Minds Don’t Think Alike" />
+        <meta property="og:image" content="http://activateeducation.com.au/img/og-img.png" /> 
 		<meta property="og:title" content="Activate Education" />
 		<meta property="og:description" content="We&#039;re a tutoring agency with a difference. We&#039;re recent high-school graduates, so we know what it's like. We know the curriculum. We know how to do the exact assessment pieces required. We&#039;re friendly and passionate, and we&#039;re here to help." />
 		<link rel="shortcut icon" type="image/png" href="http://dev.activateeducation.com.au/img/favicon.png"/>
@@ -31,15 +30,15 @@
         <link href="http://fonts.googleapis.com/css?family=Arimo:400,700,400italic" rel="stylesheet" type="text/css">
         <link href="css/font-helvetica.css" rel="stylesheet" type="text/css">
         <script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+          (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+          (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+          })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-73602339-1', 'auto');
-  ga('send', 'pageview');
+          ga('create', 'UA-73602339-1', 'auto');
+          ga('send', 'pageview');
+        </script>
 
-</script>
     </head>
     <?php
         $homeLink="'/'";
