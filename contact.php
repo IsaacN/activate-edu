@@ -40,7 +40,7 @@
 									</div>
 									<input type="submit" class="send-form" value="Submit!">
 									<div class="form-success">
-										<span class="text-white">Message sent - Thanks for your enquiry</span>
+										<span class="text-white">Message sent! Thank you for your enquiry.</span>
 									</div>
 									<div class="form-error">
 										<span class="text-white">Please complete all fields correctly</span>
