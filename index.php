@@ -1,6 +1,7 @@
 <?php
 	$pagename = 'Home';
 	include 'includes/header.php';
+	$homeLink = "'#'";
 ?>
 
     <body>
@@ -31,10 +32,10 @@
 					</div>
 				</div>
 			</header>
-			
+			<div id='why' style='display: inline;'></div>
 			<section class="primary-features duplicatable-content">
 				<div class="container">
-					<div class="row">
+					<div class="row" id='why-activate'>
 		
 							<div class="col-md-4 col-sm-6 clearfix">
 								<div class="feature feature-icon-small">
@@ -73,8 +74,8 @@
 				</div>
 				
 				<div class="container">
-					<div class="row">
-						<div class="col-md-6 col-md-offset-6 col-sm-7 col-sm-offset-5 content clearfix">
+					<div class="row" id='tutoring-benefits'>
+						<div class="col-md-6 col-md-offset-6 col-sm-7 col-sm-offset-5 content clearfix" >
 							<h1>Tutoring has more benefits than simply achieving higher grades.</h1>
 							<p class="lead">
 								Even though one-on-one and small-group tutoring has been shown to increase academic performance in school students, it is not the only benefit.</p>
@@ -131,10 +132,11 @@
 											<p>
 												Attitudes of primary- and high-school students toward school are shown to improve after undertaking additional tutelage outside of school hours, according to a 2001 UK study.</p>
 										</div>
+
 									</div>
 								</div>
 							</div>
-					
+							<div id='testimonials-location' style='display: inline-block;'></div>
 						</div>
 					</div>
 				</div>
@@ -142,7 +144,7 @@
 			
 			<section class="bg-secondary-1">
 				<div class="container">
-					<div class="row">
+					<div class="row" id='testimonials'>
 						<div class="col-sm-8 col-sm-offset-2">
 							<div class="testimonials-slider text-center">
 								<ul class="slides">
@@ -172,12 +174,14 @@
 				<div class="container">
 					<div class="row clearfix">
 						<div class="col-sm-6 col-xs-12 pull-left">
+						
 							<h3 class="text-white"><strong>Enquire about a tutor.</strong> It'll only take a minute.</h3>
 						</div>
 						
 						<div class="col-sm-4 col-xs-12 pull-right text-right">
 							<a href="contact.php" class="btn btn-primary btn-filled">Enquire Now!</a>
 						</div>
+						<div id='who-are-we' style='display: inline;'></div>
 					</div>
 				</div>
 			</section>

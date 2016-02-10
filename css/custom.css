@@ -1,5 +1,5 @@
 footer{
-	height: 150px;
+	min-height: 150px;
 	padding: 0px;
 }
 
@@ -17,6 +17,12 @@ a.logo{
 
 #navEnquire{
 	margin-top: -14px;
+	padding-bottom: 14px;
+	color: #fff;
+}
+
+#navEnquire:hover{
+	color:#fff;
 }
 
 @media all and (max-width: 767px) {
@@ -26,11 +32,26 @@ a.logo{
 	}
 	#navEnquire{
 		margin-bottom: 8px;
+		margin-top: 8px;
+		
 	}
 }
 
 @media all and (max-width: 767px){
 .simple-bar .logo {
     max-height: 70px;
-    bottom: 14px;
+    /*margin-bottom: 40px;*/
+}
+}
+
+
+@media all and (max-width: 1200px){
+.simple-bar .social-icons {
+    display: none;
+    /*margin-bottom: 40px;*/
+}
+
+.navNoMargin{
+	margin-right: 0px;
+}
 }
