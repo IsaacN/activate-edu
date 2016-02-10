@@ -1,5 +1,5 @@
 footer{
-	height: 150px;
+	min-height: 150px;
 	padding: 0px;
 }
 
@@ -7,7 +7,56 @@ a.logo{
 	color: none;
 }
 
+.simple-bar .logo{
+	bottom: 5px;
+}
 
 .form-message{
 	height: 150px;
+}
+
+#navEnquire{
+	margin-top: -14px;
+	padding-bottom: 14px;
+	color: #fff;
+}
+
+#navEnquire:hover{
+	color:#fff;
+}
+
+.simple-bar .social-icons {
+    margin-left: 40px;
+    /*margin-bottom: 40px;*/
+}
+
+@media all and (max-width: 767px) {
+	img.logo .logo-dark{
+		margin-top: -20px !important;
+		padding-top: 10px;
+	}
+	#navEnquire{
+		margin-bottom: 8px;
+		margin-top: 8px;
+
+	}
+}
+
+@media all and (max-width: 767px){
+.simple-bar .logo {
+    max-height: 70px;
+    /*margin-bottom: 40px;*/
+}
+}
+
+
+@media all and (max-width: 1200px){
+.simple-bar .social-icons {
+    display: none;
+    /*margin-bottom: 40px;*/
+}
+
+.navNoMargin{
+	margin-right: 0px;
+}
 }
