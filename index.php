@@ -67,26 +67,26 @@
 			</section>
 			
 			<section class="side-image clearfix">
-				<div class="image-container col-sm-4 pull-left col-md-5">
-					<div class="background-image-holder">
-						<img class="background-image" alt="Background Image" src="img/side1.jpg">
+				<div class="image-container hidden-sm pull-left col-md-5">
+					<div class="background-image-holder hidden-sm hidden-xs" style='background-position: left center;'>
+						<img class="background-image" alt="Background Image" src="img/side1.jpg" >
 					</div>
 				</div>
 				
 				<div class="container">
 					<div class="row" id='tutoring-benefits'>
-						<div class="col-md-6 col-md-offset-6 col-sm-7 col-sm-offset-5 content clearfix" >
+						<div class="col-md-6 col-md-offset-6 col-sm-12 col-xs-12 content clearfix" >
 							<h1>Tutoring has more benefits than simply achieving higher grades.</h1>
 							<p class="lead">
 								Even though one-on-one and small-group tutoring has been shown to increase academic performance in school students, it is not the only benefit.</p>
 						
 							<div class="row">
-								<div class="col-md-6 no-pad-left">
+								<div class="col-md-6 col-sm-6 no-pad-left">
 									<div class="feature feature-icon-left">
 										<div class="icon-holder">
 											<i class="icon icon-happy"></i>
 										</div>
-										<div class="feature-text">
+										<div class="feature-text col-md-6">
 											<h6>Reduced Test Anxiety</h6>
 											<p>
 												Private tutoring regularly results in lower levels of pre-test stress for students of all ages, according to a 2002 university study.</p>
@@ -94,12 +94,12 @@
 									</div>
 								</div>
 						
-								<div class="col-md-6 no-pad-left">
+								<div class="col-md-6 col-sm-6 no-pad-left">
 									<div class="feature feature-icon-left">
 										<div class="icon-holder">
-											<i class="icon icon-flag"></i>
+											<i class="icon icon-flag"></i> 
 										</div>
-										<div class="feature-text">
+										<div class="feature-text col-md-6">
 											<h6>Increased Learning Motivation</h6>
 											<p>
 												Students who partake in private tutoring show a lasting increase in motivation for academic pursuits, as reported in the European Journal of Psychology and Education.</p>
@@ -109,12 +109,12 @@
 							</div>
 						
 							<div class="row">
-								<div class="col-md-6 no-pad-left">
+								<div class="col-md-6 col-sm-6 no-pad-left">
 									<div class="feature feature-icon-left">
 										<div class="icon-holder">
 											<i class="icon icon-expand"></i>
 										</div>
-										<div class="feature-text">
+										<div class="feature-text col-md-6">
 											<h6>Greater Academic Self-Concept</h6>
 											<p>
 												Children and teens who have private tutors are shown to have a greater academic self esteem after undertaking regular sessions, as also reported in the European Journal of Psychology and Education.</p>
@@ -122,12 +122,12 @@
 									</div>
 								</div>
 						
-								<div class="col-md-6 no-pad-left">
+								<div class="col-md-6 col-sm-6 no-pad-left">
 									<div class="feature feature-icon-left">
 										<div class="icon-holder">
 											<i class="icon icon-heart"></i>
 										</div>
-										<div class="feature-text">
+										<div class="feature-text col-md-6">
 											<h6>Improved Attitudes Toward Schooling</h6>
 											<p>
 												Attitudes of primary- and high-school students toward school are shown to improve after undertaking additional tutelage outside of school hours, according to a 2001 UK study.</p>
