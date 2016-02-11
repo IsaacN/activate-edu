@@ -195,7 +195,7 @@ if ( !empty($action) ) {
 					email($email, 'subscription-confirmation-customer', $values, 'Thank you for your recurring payment to ' . $config['name']);
 				} else {
 					email($config['email'], 'payment-confirmation-admin', $values, 'You\'ve received a new payment!');
-					email($email, 'payment-confirmation-customer', $values, 'Thank you for your payment to ' . $config['name']);
+					//email($email, 'payment-confirmation-customer', $values, 'Thank you for your payment to ' . $config['name']);
 				}
 
 
@@ -309,7 +309,7 @@ if ( !empty($action) ) {
 							'url' => url(''),
 						);
 						email($config['email'], 'payment-confirmation-admin', $values, 'You\'ve received a new payment!');
-						email($payment->email, 'payment-confirmation-customer', $values, 'Thank you for your payment to ' . $config['name']);
+						//email($payment->email, 'payment-confirmation-customer', $values, 'Thank you for your payment to ' . $config['name']);
 
 					break;
 
