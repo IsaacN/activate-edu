@@ -50,9 +50,10 @@ if ( isset($error) ) {
 
 			<div class="page-header">
     			<h2 class="colorprimary"><?php echo $config['page_title']; ?> <script language="JavaScript" type="text/javascript">
-TrustLogo("https://activateeducation.com.au/img/comodo-secure.png", "SC5", "none");
+TrustLogo("https://activateeducation.com.au/img/comodo-secure.png", "CL1", "none");
 </script>
-<a href="https://www.instantssl.com" id="comodoTL">SSL Certificate</a><img src='/img/comodo-secure.png' style='margin-left: 30px;'></h2>
+<a  href="https://www.positivessl.com/" id="comodoTL">Positive SSL</a>
+</h2>
     		</div>
 
     		<?php if ( isset($error) ) : ?>
