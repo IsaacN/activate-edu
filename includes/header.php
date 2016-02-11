@@ -4,11 +4,6 @@
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
 <!--[if gt IE 8]><!--> 
 <html class="no-js"> <!--<![endif]-->
-<script type="text/javascript"> //<![CDATA[ 
-var tlJsHost = ((window.location.protocol == "https:") ? "https://secure.comodo.com/" : "http://www.trustlogo.com/");
-document.write(unescape("%3Cscript src='" + tlJsHost + "trustlogo/javascript/trustlogo.js' type='text/javascript'%3E%3C/script%3E"));
-//]]>
-</script>
     <head>
         <meta charset="utf-8">
         <title>Activate Education | <?=$pagename?></title>
@@ -45,10 +40,6 @@ document.write(unescape("%3Cscript src='" + tlJsHost + "trustlogo/javascript/tru
         </script>
 
     </head>
-    <script language="JavaScript" type="text/javascript">
-TrustLogo("http://activateeducation.com.au/img/comodo-secure.png", "CL1", "none");
-</script>
-<a  href="https://www.positivessl.com/" id="comodoTL">Positive SSL</a>
     <?php
         $homeLink="'/'";
     ?>
