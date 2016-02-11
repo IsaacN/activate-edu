@@ -5,8 +5,8 @@ $config = array(
 	/*
 	* ADMIN ACCESS CREDENTIALS
 	*/
-	'admin_username' => 'admin', // username used to login to the admin area
-	'admin_password' => 'adminpassword', // password used to login to the admin area
+	'admin_username' => 'activate', // username used to login to the admin area
+	'admin_password' => 'CaptainMater14l!', // password used to login to the admin area
 
 	/*
 	* DATABASE ACCESS CREDENTIALS

@@ -411,6 +411,8 @@ if ( isset($error) ) {
 
     	</div>
 
+    	<img src='/img/comodo-secure.png' style='margin: 0 auto;'>
+
         
     </body>
 </html>
