@@ -49,11 +49,7 @@ if ( isset($error) ) {
 			<?php template('message', false); ?>
 
 			<div class="page-header">
-    			<h2 class="colorprimary"><?php echo $config['page_title']; ?> <script language="JavaScript" type="text/javascript">
-TrustLogo("https://activateeducation.com.au/img/comodo-secure.png", "CL1", "none");
-</script>
-<a  href="https://www.positivessl.com/" id="comodoTL">Positive SSL</a>
-</h2>
+    			<h2 class="colorprimary"><?php echo $config['page_title']; ?></h2>
     		</div>
 
     		<?php if ( isset($error) ) : ?>
@@ -338,6 +334,10 @@ TrustLogo("https://activateeducation.com.au/img/comodo-secure.png", "CL1", "none
 						<div class="row mt50">
 							
 							<div class="col-md-12 alignright">
+							<script language="JavaScript" type="text/javascript">
+TrustLogo("https://activateeducation.com.au/img/comodo-secure.png", "CL1", "none");
+</script>
+<a  href="https://www.positivessl.com/" id="comodoTL">Positive SSL</a>
 								<div class="creditcard-content">
 
 									<button type="submit" class="btn btn-lg btn-primary submit-button mb20" data-loading-text='<i class="fa fa-spinner fa-spin"></i> Submitting...' data-complete-text='<i class="fa fa-check"></i> Payment Complete!' <?php echo $allow_submit ? '' : 'disabled'; ?>>
