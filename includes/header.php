@@ -29,7 +29,7 @@
         <script src="js/modernizr-2.6.2-respond-1.1.0.min.js"></script>
         <link href="https://fonts.googleapis.com/css?family=Arimo:400,700,400italic" rel="stylesheet" type="text/css">
         <link href="css/font-helvetica.css" rel="stylesheet" type="text/css">
-        <script src="assets/js/fb-pixel.js"></script>
+        <script src="/js/fb-pixel.js"></script>
     <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=976044342489315&ev=PageView&noscript=1"/></noscript>
         <script>
           (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
