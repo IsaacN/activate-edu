@@ -49,7 +49,10 @@ if ( isset($error) ) {
 			<?php template('message', false); ?>
 
 			<div class="page-header">
-    			<h2 class="colorprimary"><?php echo $config['page_title']; ?> <img src='/img/comodo-secure.png' style='margin-left: 30px;'></h2>
+    			<h2 class="colorprimary"><?php echo $config['page_title']; ?> <script language="JavaScript" type="text/javascript">
+TrustLogo("https://activateeducation.com.au/img/comodo-secure.png", "SC5", "none");
+</script>
+<a href="https://www.instantssl.com" id="comodoTL">SSL Certificate</a><img src='/img/comodo-secure.png' style='margin-left: 30px;'></h2>
     		</div>
 
     		<?php if ( isset($error) ) : ?>
