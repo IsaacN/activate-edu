@@ -49,7 +49,7 @@ if ( isset($error) ) {
 			<?php template('message', false); ?>
 
 			<div class="page-header">
-    			<h2 class="colorprimary"><?php echo $config['page_title']; ?></h2>
+    			<h2 class="colorprimary"><?php echo $config['page_title']; ?> <img src='/img/comodo-secure.png' style='margin-left: 30px;'></h2>
     		</div>
 
     		<?php if ( isset($error) ) : ?>
@@ -411,7 +411,7 @@ if ( isset($error) ) {
 
     	</div>
 
-    	<img src='/img/comodo-secure.png' style='margin: 0 auto;'>
+
 
         
     </body>
