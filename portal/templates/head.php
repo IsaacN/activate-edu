@@ -1,7 +1,8 @@
 <head>
     <meta charset="utf-8">
-    <title><?php echo isset($config['page_title']) ? $config['page_title'] : 'Stripe Advanced Payment Terminal'; ?></title>
+    <title><?php echo isset($config['page_title']) ? $config['page_title'] : 'Activate Education Payment Portal'; ?></title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta property="og:image" content="https://activateeducation.com.au/img/og-img.png" /> 
 
 	<!-- Begin CSS -->
 	<link href="assets/css/vendor/bootstrap.min.css" rel="stylesheet">
