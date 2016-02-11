@@ -334,10 +334,7 @@ if ( isset($error) ) {
 						<div class="row mt50">
 							
 							<div class="col-md-12 alignright">
-							<script language="JavaScript" type="text/javascript">
-TrustLogo("https://activateeducation.com.au/img/comodo-secure.png", "CL1", "none");
-</script>
-<a  href="https://www.positivessl.com/" id="comodoTL">Positive SSL</a>
+
 								<div class="creditcard-content">
 
 									<button type="submit" class="btn btn-lg btn-primary submit-button mb20" data-loading-text='<i class="fa fa-spinner fa-spin"></i> Submitting...' data-complete-text='<i class="fa fa-check"></i> Payment Complete!' <?php echo $allow_submit ? '' : 'disabled'; ?>>
@@ -346,6 +343,10 @@ TrustLogo("https://activateeducation.com.au/img/comodo-secure.png", "CL1", "none
 									</button>
 
 								</div>
+								<script language="JavaScript" type="text/javascript">
+TrustLogo("https://activateeducation.com.au/img/comodo-secure.png", "CL1", "none");
+</script>
+<a  href="https://www.positivessl.com/" id="comodoTL">Positive SSL</a>
 								<div class="paypal-content displaynone">
 									<a href="#" class="btn btn-lg btn-primary submit-button paypal-button" data-loading-text='<i class="fa fa-spinner fa-spin"></i> Sending to PayPal...' <?php echo $allow_submit ? '' : 'disabled'; ?>>
 										<span class="total <?php echo !empty($total) ? 'show' : ''; ?>">Total: <?php echo currencySymbol(); ?><span><?php echo $total; ?></span> <small><?php echo currencySuffix(); ?></small></span>
