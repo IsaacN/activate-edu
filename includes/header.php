@@ -10,11 +10,11 @@
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta property="og:url" content="http://activateeducation.com.au/" />
-        <meta property="og:image" content="http://activateeducation.com.au/img/og-img.png" /> 
+        <meta property="og:url" content="https://activateeducation.com.au/" />
+        <meta property="og:image" content="https://activateeducation.com.au/img/og-img.png" /> 
 		<meta property="og:title" content="Activate Education" />
 		<meta property="og:description" content="We&#039;re a tutoring agency with a difference. We&#039;re recent high-school graduates, so we know what it's like. We know the curriculum. We know how to do the exact assessment pieces required. We&#039;re friendly and passionate, and we&#039;re here to help." />
-		<link rel="shortcut icon" type="image/png" href="http://dev.activateeducation.com.au/img/favicon.png"/>
+		<link rel="shortcut icon" type="image/png" href="https://activateeducation.com.au/img/favicon.png"/>
         <link href="/css/flexslider.min.css" rel="stylesheet" type="text/css" media="all"/>
         <link href="/css/line-icons.min.css" rel="stylesheet" type="text/css" media="all"/>
         <link href="/css/elegant-icons.min.css" rel="stylesheet" type="text/css" media="all"/>
@@ -27,7 +27,7 @@
 		<![endif]-->
         <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,400,300,600,700%7CRaleway:700' rel='stylesheet' type='text/css'>
         <script src="js/modernizr-2.6.2-respond-1.1.0.min.js"></script>
-        <link href="http://fonts.googleapis.com/css?family=Arimo:400,700,400italic" rel="stylesheet" type="text/css">
+        <link href="https://fonts.googleapis.com/css?family=Arimo:400,700,400italic" rel="stylesheet" type="text/css">
         <link href="css/font-helvetica.css" rel="stylesheet" type="text/css">
         <script>
           (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

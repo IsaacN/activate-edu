@@ -3,10 +3,9 @@
 				<div class="container align-vertical">
 					<div class="row">
 						<div class="col-sm-12">
-							<span class="text-white">© Copright <?php echo date("Y") ?> Activate Education—All Rights Reserved</span>
+							<span class="text-white"><img src='/img/comodo-secure.png'></span>
+							<span class="text-white">© Copyright <?php echo date("Y") ?> Activate Education—All Rights Reserved</span>
 							<span class="text-white"><a href="mailto:hello@activateeducation.com.au">hello@activateeducation.com.au</a></span>
-							<span class="text-white">Brisbane Bayside Home Tutors</span>
-							<!-- <span class="text-white">Brisbane, QLD Australia.</span> -->
 						</div>
 					</div>
 				</div>
