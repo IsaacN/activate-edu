@@ -27,8 +27,7 @@
 	<script src="assets/js/vendor/jquery.validate.min.js"></script>
 	<script src="assets/js/vendor/jquery.validate.additional-methods.min.js"></script>
 	<script src="assets/js/app.js"></script>
-	<script src="assets/js/fb-pixel.js"></script>
-	<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=976044342489315&ev=PageView&noscript=1"/></noscript>
+	
 	<script type="text/javascript"> //<![CDATA[ 
 var tlJsHost = ((window.location.protocol == "https:") ? "https://secure.comodo.com/" : "http://www.trustlogo.com/");
 document.write(unescape("%3Cscript src='" + tlJsHost + "trustlogo/javascript/trustlogo.js' type='text/javascript'%3E%3C/script%3E"));
