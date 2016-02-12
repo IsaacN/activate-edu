@@ -57,7 +57,7 @@
 								<div class="feature feature-icon-small">
 									<i class="icon icon-wallet"></i>
 									<h6 class="text-white">Affordable</h6>
-									<p class="text-white">Our prices are the lowest you'll find for any agency. We believe that home tutoring is the most effective way for a student to reach his or her potential; we want it to be accessible to everyone. Activate gives you excellent service, for an extremely affordable price.</p>
+									<p class="text-white">Our prices are the lowest you'll find for any agency. We keep our overheads low, so that we can pass savings on to you. We believe that home tutoring is the most effective way for a student to reach his or her potential; we want it to be accessible to everyone. At $20 per hour less than other agencies, Activate gives you excellent service for an extremely affordable price.</p>
 								</div>
 							</div>
 		

@@ -6,15 +6,16 @@
 <html class="no-js"> <!--<![endif]-->
     <head>
         <meta charset="utf-8">
-        <title>Activate Education | <?=$pagename?></title>
+        <title>Activate Education | Brisbane Bayside Home Tutoring | <?=$pagename?></title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta property="og:url" content="https://activateeducation.com.au/" />
         <meta property="og:image" content="https://activateeducation.com.au/img/og-img.png" /> 
 		<meta property="og:title" content="Activate Education" />
-		<meta property="og:description" content="We&#039;re a tutoring agency with a difference. We&#039;re recent high-school graduates, so we know what it's like. We know the curriculum. We know how to do the exact assessment pieces required. We&#039;re friendly and passionate, and we&#039;re here to help." />
-		<link rel="shortcut icon" type="image/png" href="https://activateeducation.com.au/img/favicon.png"/>
+		<meta property="og:description" content="Activate Education is a fresh approach to personal home tutoring, that doesn't break the bank." />
+		<meta name="description" content="Activate Education is a fresh approach to personal home tutoring, that doesn't break the bank. Experienced and friendly tutors who come to you are available for $42 per week." />
+        <link rel="shortcut icon" type="image/png" href="https://activateeducation.com.au/img/favicon.png"/>
         <link href="/css/flexslider.min.css" rel="stylesheet" type="text/css" media="all"/>
         <link href="/css/line-icons.min.css" rel="stylesheet" type="text/css" media="all"/>
         <link href="/css/elegant-icons.min.css" rel="stylesheet" type="text/css" media="all"/>
