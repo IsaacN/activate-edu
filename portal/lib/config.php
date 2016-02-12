@@ -12,8 +12,8 @@ $config = array(
 	* DATABASE ACCESS CREDENTIALS
 	*/
 	'db_host' => 'localhost', // database host, usually localhost
-	'db_username' => 'frictio3_actv', // database username
-	'db_password' => 'CaptainMater14l!', // datebase password
-	'db_name' => 'frictio3_activate-edu', // database name
+	'db_username' => 'root', // database username
+	'db_password' => 'root', // datebase password
+	'db_name' => 'activate', // database name
 
 );
