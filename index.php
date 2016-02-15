@@ -93,6 +93,7 @@
 											<li> Science </li>
 											<li> Humanities </li>
 											<li> Business </li>
+											<li> Drama </li>
 											<li> Media &amp; Film </li>
 										</ul>
 										
