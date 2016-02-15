@@ -11,7 +11,10 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta property="og:url" content="https://activateeducation.com.au/" />
-        <meta property="og:image" content="https://activateeducation.com.au/img/og-img.png" /> 
+        <meta property="og:image" content="http://activateeducation.com.au/img/og-img.png" /> 
+        <meta property="og:image:secure_url" content="https://activateeducation.com.au/img/og-img.png" />
+        <meta property="og:image:width" content="1200px" />
+        <meta property="og:image:height" content="630px" />
 		<meta property="og:title" content="Activate Education" />
 		<meta property="og:description" content="Activate Education is a fresh approach to personal home tutoring, that doesn't break the bank." />
 		<meta name="description" content="Activate Education is a fresh approach to personal home tutoring, that doesn't break the bank. Experienced and friendly tutors who come to you are available for $42 per week." />
