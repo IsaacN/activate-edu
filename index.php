@@ -66,6 +66,76 @@
 				</div>
 			</section>
 			
+			<section id='subject-list' class="side-image clearfix">
+				<div class="image-container hidden-sm pull-right col-md-4">
+					<div class="background-image-holder hidden-sm hidden-xs" style='background-position: right center;'>
+						<img class="background-image" alt="Background Image" src="img/side2.jpg" >
+					</div>
+				</div>
+				
+				<div class="container">
+					<div class="row" id='our-services'>
+						<div class="col-md-7  col-sm-12 col-xs-12 content clearfix" >
+							<h1>Our Services</h1>
+							<p class="lead">
+								Supported by a team of OP 1 home tutors, Activate provides private and small-group tutoring across a vast variety of subjects to students in the Redlands and Brisbane's southern and bayside suburbs.</p>
+						
+							<div class='row' style='margin-top: 20px;'>
+						<div class="col-sm-6">
+							<div class="feature feature-icon-large">
+								
+									<i class="icon icon-lightbulb" style=' margin-bottom: 0px; border: none;margin-left: -38px;'></i>
+									<h5>Year 10 and Below</h5>
+									<p>
+										<ul>
+											<li> Mathematics (Core &amp; Advanced) </li>
+											<li> English </li>
+											<li> Science </li>
+											<li> Humanities </li>
+											<li> Business </li>
+											<li> Media &amp; Film </li>
+										</ul>
+										
+									</p>
+								
+							</div>
+						</div>
+						
+						<div class="col-sm-6">
+							<div class="feature feature-icon-large">
+								
+									<i class="icon icon-beaker" style='margin-bottom: 0px; border: none;margin-left: -35px;'></i>
+									<h5>Years 11 &amp; 12</h5>
+									<p>
+										<ul>
+											<li> Mathematics A, B &amp; C </li>
+											<li> English </li>
+											<li> English Extension </li>
+											<li> Chemistry </li>
+											<li> Physics </li>
+											<li> Biology </li>
+											<li> Legal Studies </li>
+											<li> Business Management </li>
+											<li> Economics </li>
+											<li> Geography </li>
+											<li> Modern &amp; Ancient History </li>
+											<li> IPT </li>
+											<li> Film, Television &amp; New Media </li>
+											<li> Drama </li>
+										</ul>
+									</p>
+								
+							</div>
+						</div>
+						</div>
+						<div class='row' style='text-align: center;'>
+						<a href="contact.php" class="btn btn-primary btn-filled" style="margin-top: 45px;">Enquire Now!</a>
+						</div>
+							
+						</div>
+					</div>
+				</div>
+			</section>
 			<section class="side-image clearfix">
 				<div class="image-container hidden-sm pull-left col-md-5">
 					<div class="background-image-holder hidden-sm hidden-xs" style='background-position: left center;'>

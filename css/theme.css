@@ -1372,6 +1372,9 @@ img.phone-portrait {
   z-index: 0;
   background-position: 50% 50% !important;
 }
+#subject-list .background-image-holder{
+  background-position: 80% 50% !important;
+}
 .background-image-holder.parallax-background {
   height: 120%;
   top: -10%;
@@ -3392,7 +3395,7 @@ footer.short-2 .contact-action:hover {
   transition: all .3s ease;
 }
 .milestones .feature-icon-large i {
-  margin: 0px auto;
+  margin: 0px ;
   margin-bottom: 0px;
 }
 .milestones h5 {

@@ -22,13 +22,23 @@
 									echo "<li><a href='/#why'>Why Activate?</a></li>
 								<li><a href='/#tutoring-benefits'>Tutoring Benefits</a></li>
 								<!--<li><a href='/#testimonials-location'>Testimonials</a></li>-->
-								<li><a href='/#who-are-we'>Who We Are</a></li>";
+								<li class='has-dropdown'><a href='#/our-services''>About Us</a>
+									<ul class='subnav'>
+										<li><a href='/#our-services'>Our Services</a></li>
+										<li><a href='/#who-are-we'>Who We Are</a></li>
+									</ul>
+								</li>";
 									}
 									else{
 										echo "<li><a href='#why'>Why Activate?</a></li>
 								<li><a href='#tutoring-benefits'>Tutoring Benefits</a></li>
 								<!--<li><a href='#testimonials-location'>Testimonials</a></li>-->
-								<li><a href='#who-are-we'>Who We Are</a></li>";
+								<li class='has-dropdown'><a href='#our-services''>About Us</a>
+									<ul class='subnav'>
+										<li><a href='#our-services'>Our Services</a></li>
+										<li><a href='#who-are-we'>Who We Are</a></li>
+									</ul>
+								</li>";
 									}
 									?>
 								
@@ -44,15 +54,13 @@
 								
 									
 								</ul></li>
-								<!-- <li class="has-dropdown"><a href="#">Dropdown</a>
+								<!-- <li class="has-dropdown"><a href="#">About Us</a>
 									<ul class="subnav">
-										<li><a href="#">Example</a></li>
-										<li><a href="#">Example</a></li>
-										<li><a href="#">Example</a></li>
-										<li><a href="#">Example</a></li>
+										<li><a href="#our-services">Our Services</a></li>
+										<li><a href="#who-are-we">Who We Are</a></li>
 									</ul>
-								</li>
-								<li class="has-dropdown"><a href="#">Half Width</a>
+								</li> -->
+								<!--<li class="has-dropdown"><a href="#">Half Width</a>
 									<div class="subnav subnav-halfwidth">
 										<div class="col-sm-6">
 											<h6 class="alt-font">Subnav Title</h6>
