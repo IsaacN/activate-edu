@@ -11,8 +11,8 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta property="og:url" content="https://activateeducation.com.au/" />
-        <meta property="og:image" content="http://activateeducation.com.au/img/og-img.png" /> 
-        <meta property="og:image:secure_url" content="https://activateeducation.com.au/img/og-img.png" />
+        <meta property="og:image" content="http://activateeducation.com.au/img/ad-og-img.jpg" /> 
+        <meta property="og:image:secure_url" content="https://activateeducation.com.au/img/ad-og-img.jpg" />
         <meta property="og:image:width" content="1200px" />
         <meta property="og:image:height" content="630px" />
 		<meta property="og:title" content="Activate Education" />
