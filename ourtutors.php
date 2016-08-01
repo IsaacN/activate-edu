@@ -63,7 +63,7 @@
 								<div id='alex' class='profile-photo'> </div>
 								<h2>Alex Muirhead</h2>
 								<h5>Tutor</h5>
-								<p class="space-top-small">Alex is an 18-year-old studying Engineering (Hons) (Mechanical and Aerospace) and Science (Physics) at the University of Queensland. An avid academic, he loves infecting others with his passion for learning and taking time to build students' confidence in their pursuit of knowledge. In his spare moments, you can find Alex designing robots, rockets and code, in an attempt to be known as a "Mad Scientist."&nbsp;Alex graduated from Ormiston College, as dux in three subjects, in 2015 with an OP 1.</p>
+								<p class="space-top-small">Alex is an 18-year-old studying Engineering (Hons) (Mechanical and Aerospace) and Science (Physics) at the University of Queensland. An avid academic, he loves infecting others with his passion for learning and taking time to build students' confidence in their pursuit of knowledge. In his spare moments, you can find Alex designing robots, rockets and code, in an attempt to be known as a "Mad Scientist."&nbsp;Alex graduated from Ormiston College, as dux in three subjects, in 2015 with an OP 1.<br><br>Alex specialises in tutoring Maths A, B &amp; C, Chemistry, IPT and Physics.</p>
 							</div>
 						</div>
 						
@@ -73,7 +73,7 @@
 								<h2>Ben Eliasaf</h2>
 								<h5>Tutor</h5>
 								<p class="space-top-small">
-									Ben is an 18-year-old studying Biomedical Science and Law (Hons) at the University of Queensland. He focuses not on giving students all the answers, but teaching them to reliably solve problems through their own developed understanding. A self-confessed nerd, his true love is travel, evidenced by an inordinate geographical knowledge. Ben graduated from Sheldon College, where he was Humanities Prefect , in 2014 with an OP 1.
+									Ben is an 18-year-old studying Biomedical Science and Law (Hons) at the University of Queensland. He focuses not on giving students all the answers, but teaching them to reliably solve problems through their own developed understanding. A self-confessed nerd, his true love is travel, evidenced by an inordinate geographical knowledge. Ben graduated from Sheldon College, where he was Humanities Prefect , in 2014 with an OP 1. <br><br>Ben specialises in tutoring Maths, Biology, English and Chemistry.
 								</p>
 							</div>
 						</div><div class="col-sm-4">
@@ -82,7 +82,7 @@
 								<h2>Georgia Light</h2>
 								<h5>Tutor</h5>
 								<p class="space-top-small">
-									Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+									Georgia is a 19-year-old studying Biomedical Science at Griffith University. As a passionate student herself, Georgia strives to help others in their education through methods unique to each individual. Alongside university, she studies classical piano and enjoys spending time with friends and family, travelling and days at the beach. Georgia graduated from Sheldon College in 2014 with an OP 3.<br><br>Georgia specialises in tutoring Biology, English and Music.
 								</p>
 							</div>
 						</div>
@@ -94,7 +94,7 @@
 								<h2>Panashe Machingura</h2>
 								<h5>Tutor</h5>
 								<p class="space-top-small">
-									Panashe is an 18-year-old studying Electrical Engineering (Hons) and Economics at the University of Queensland. He's a creative and enthusiastic character who enjoys assisting others through creative and practical methods. He is an athletic individual who enjoys sports (Football), spending time with friends &amp; family and working on many interesting engineering and business projects that will in future benefit the lives of many. Panashe graduated from Sheldon College in 2014 with an OP 1 equivalent, and because of these efforts was awarded the title of Prentice Scholar by University of Queensland for successfully obtaining the Engineering, Information and Technology scholarship.
+									Panashe is an 18-year-old studying Electrical Engineering (Hons) and Economics at the University of Queensland. He's a creative and enthusiastic character who enjoys assisting others through creative and practical methods. He is an athletic individual who enjoys sports (Football), spending time with friends &amp; family and working on many interesting engineering and business projects that will in future benefit the lives of many. Panashe graduated from Sheldon College in 2014 with an OP 1 equivalent, and because of these efforts was awarded the title of Prentice Scholar by University of Queensland for successfully obtaining the Engineering, Information and Technology scholarship.<br><br>Panashe specialises tutoring in Maths, Physics and Graphics.
 								</p>
 							</div>
 						</div><div class="col-sm-4">
@@ -103,7 +103,7 @@
 								<h2>Qv Ho</h2>
 								<h5>Tutor</h5>
 								<p class="space-top-small">
-									Qv is an 18-year-old taking a gap year to pursue a tennis career, looking to enter medicine in 2017 at the University of Queensland. He is devoted to impart his knowledge and experience in academia, especially Maths and Science. Qv passionately seeks to improve his skill in both sports and education, but one can occasionally find him catching Pokemon or watching one-too-many TV shows every now and again. He graduated from Ormiston College, where he was the Academic Prefect, in 2015 with an OP 1.
+									Qv is an 18-year-old taking a gap year to pursue a tennis career, looking to enter medicine in 2017 at the University of Queensland. He is devoted to impart his knowledge and experience in academia, especially Maths and Science. Qv passionately seeks to improve his skill in both sports and education, but one can occasionally find him catching Pokemon or watching one-too-many TV shows every now and again. He graduated from Ormiston College, where he was the Academic Prefect, in 2015 with an OP 1.<br><br> Qv specialises in tutoring Maths and Physics.
 								</p>
 							</div>
 						</div>
