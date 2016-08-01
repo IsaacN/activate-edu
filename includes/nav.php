@@ -25,7 +25,7 @@
 								<li class='has-dropdown'><a href='#/our-services''>About Us</a>
 									<ul class='subnav'>
 										<li><a href='/#our-services'>Our Services</a></li>
-										<li><a href='/#who-are-we'>Who We Are</a></li>
+										<li><a href='/ourtutors.php'>Our Tutors</a></li>
 									</ul>
 								</li>";
 									}
@@ -36,7 +36,7 @@
 								<li class='has-dropdown'><a href='#our-services''>About Us</a>
 									<ul class='subnav'>
 										<li><a href='#our-services'>Our Services</a></li>
-										<li><a href='#who-are-we'>Who We Are</a></li>
+										<li><a href='/ourtutors.php'>Our Tutors</a></li>
 									</ul>
 								</li>";
 									}

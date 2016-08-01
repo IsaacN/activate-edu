@@ -4380,6 +4380,28 @@ footer.short-2 .contact-action:hover {
   background-image: url('../img/nathan-small.jpg');
 }
 
+#qv{
+  background-image: url('../img/qv-small.jpg');
+}
+
+#alex{
+  background-image: url('../img/alex-small.jpg');
+}
+
+#panashe{
+  background-image: url('../img/panashe-small.jpg');
+}
+
+#georgia{
+  background-image: url('../img/georgia-small.jpg');
+}
+
+#ben{
+  background-image: url('../img/ben-small.jpg');
+}
+
+
+
 header .btn{
   margin-top: 15px;
   margin-bottom: -20px;
